@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyNDK</string>
+    <string name="action_settings">Settings</string>
+</resources>
